@@ -9,18 +9,18 @@
 
 ---
 
-# 🚀 Archit Kiran | Computer Science Student  
+# 🚀 Archit Kiran Kumar | MS Computer Science Student  
 
 🎓 Master’s in Computer Science @ **Boston University**  
-💻 Passionate about **Software Development | Data Science | Blockchain | Cybersecurity | Post-Quantum Communication**  
-🌱 Currently exploring **Post-Quantum Cryptography for IoT Devices**  
+💻 Passionate about **Software Development | Data Science | Web Development| Blockchain | Cybersecurity | Post-Quantum Communication**  
+🌱 Currently exploring **Data Science, Front-end development, CyberSecurity**  
 ⚡ Fun fact: I enjoy going to the gym & building innovative tech projects on the side  
 
 ---
 
 ## 📌 About Me  
-- 🔭 I’m working on **Post-Quantum Communication Framework for IoT Devices**  
-- 🌐 Interested in **secure communication, distributed systems, and scalable architectures**  
+- 🔭 I’m working on **Securing india's EV-Charging Network through OCPP Protocol**  
+- 🌐 Interested in **Visualizing data, secure communication, distributed systems, and scalable architectures**  
 - 📊 Experienced in **data analysis, visualization, and large-scale systems**  
 - 💡 Always open to collaborations on **open-source projects, research, and hackathons**  
 
