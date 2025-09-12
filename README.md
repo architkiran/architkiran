@@ -108,11 +108,10 @@
 
 ## 🌎 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](#)  
-[![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-kiran-kumar-403610243)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://architkiran.github.io/)  
+[![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architkiran/architkiran/blob/main/ArchitKiran_Resume.pdf)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architkiran@gmail.com)  
 
 ---
 
-✨ *"Code. Create. Contribute."* 🚀  
