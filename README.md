@@ -1,4 +1,4 @@
-## Hi there 👋
+## print("Hello World !!") 👋
 
 <!-- Typing animation -->
 <p align="center">
@@ -12,7 +12,7 @@
 # 🚀 Archit Kiran Kumar | MS Computer Science Student  
 
 🎓 Master’s in Computer Science @ **Boston University**  
-💻 Passionate about **Software Development | Data Science | Web Development| Blockchain | Cybersecurity | Post-Quantum Communication**  
+💻 Passionate about **Software Development | Data Science | Web Development| Cybersecurity | Post-Quantum Communication**  
 🌱 Currently exploring **Data Science, Front-end development, CyberSecurity**  
 ⚡ Fun fact: I enjoy going to the gym & building innovative tech projects on the side  
 
