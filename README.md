@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 Archit Kiran Kumar | MS Computer Science Student  
+# Archit Kiran Kumar | MS Computer Science Student  
 
 🎓 Master’s in Computer Science @ **Boston University**  
 
