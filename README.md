@@ -1,5 +1,3 @@
-## print("Hello World !!") 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="img.png" alt="Hi, I'm Archit Kiran Kumar" />
