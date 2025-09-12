@@ -3,7 +3,8 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/architkiran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Archit+Kiran+👋;Computer+Science+Student+%40+Boston+University;Software+Developer+%7C+Data+Scientist;Blockchain+%7C+Cybersecurity+%7C+IoT;Always+learning+new+things!" alt="Typing SVG" />
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Archit+Kiran+👋;Computer+Science+Student+%40+Boston+University;Software+Developer+%7C+Data+Scientist;Blockchain+%7C+Cybersecurity+%7C+IoT;Always+learning+new+things!)](https://git.io/typing-svg)
+
   </a>
 </p>
 
