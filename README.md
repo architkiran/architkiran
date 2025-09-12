@@ -49,17 +49,60 @@
 
 ## 📂 Featured Projects  
 
-### 🔹 [Post-Quantum Communication Framework for IoT Devices](#)  
-🔐 Designed a secure communication model for IoT using **post-quantum cryptography**, ensuring resilience against quantum-based threats.  
+### 🔹 [Safeguarding Bharat's EV Charging Networks (OCPP Protocol Resilience)](https://github.com/architkiran/Safeguarding-Bharat-s-EV-Charging-Networks-Through-OCPP-Protocol-Resilience-)  
+🔐 Designed a secure communication model for EV charging infrastructure using **OCPP & Post-Quantum Cryptography**.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-### 🔹 [Real-Time Traffic Data Analysis Using PySpark](#)  
+---
+
+### 🔹 [Real-Time Traffic Data Analysis Using PySpark](https://github.com/architkiran/Car-Rental-System)  
 🚦 Built a **real-time traffic visualization tool** using **TomTom APIs & PySpark**, with **dynamic route mapping and congestion analysis**.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### 🔹 [Blockchain-Based Voting System](#)  
+---
+
+### 🔹 [Blockchain-Based Voting System](https://github.com/architkiran/Blockchain-Based-Voting-)  
 🗳️ Developed a **secure blockchain application** for tamper-proof voting with transparent block validation.  
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-### 🔹 [Compiler Vulnerability Analysis](#)  
-🛡️ Conducted research on **security flaws in compilers** and proposed strategies to detect and mitigate vulnerabilities.  
+---
+
+### 🔹 [Car Rental System](https://github.com/architkiran/Car-Rental-System)  
+🚗 Developed a **full-stack car rental platform** with booking, payment integration, and user authentication.  
+![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
+---
+
+### 🔹 [Railways Reservation System (MERN Stack)](https://github.com/architkiran/Railways-MernStack)  
+🚉 Built a **railway reservation system** with seat allocation, booking, and cancellation features.  
+![MERN](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
+---
+
+### 🔹 [DevOps Lab Projects](https://github.com/architkiran/Devops_Lab)  
+⚙️ Experiments with **Docker, Kubernetes, and CI/CD pipelines**.  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+---
+
+### 🔹 [Next.js Sample Code](https://github.com/architkiran/Nextjs-sample-code)  
+⚛️ A simple **Next.js practice repo** exploring SSR and API routes.  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ---
 
@@ -68,7 +111,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](#)  
 [![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archit.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architkiran@gmail.com)  
 
 ---
 
