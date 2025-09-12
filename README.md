@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/architkiran/architkiran/blob/main/assets/archit-banner.png" alt="Hi, I'm Archit Kiran Kumar" />
+  <img src="https://github.com/architkiran/architkiran/blob/main/assets/img.png" alt="Hi, I'm Archit Kiran Kumar" />
 </p>
 
 ---
