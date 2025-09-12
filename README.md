@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="img2.png" alt="Hi, I'm Archit Kiran Kumar" width="600"/>
+  <img src="img2.png" alt="Hi, I'm Archit Kiran Kumar" width="1000"/>
 </p>
 
 ---
