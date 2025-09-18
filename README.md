@@ -84,6 +84,12 @@
 
 ---
 
+### 🔹 [Post-Quantum Communication Framework for IoT Devices](https://github.com/architkiran/Post-Quantum-Communication-Framework-for-IoT-Devices)  
+🛰️ Developed a **secure and efficient communication framework** for **IoT devices** resilient to **quantum-based attacks**.  
+![Python](https://img.shields.io/badge/Python-black?logo=python) ![Post-Quantum](https://img.shields.io/badge/Post--Quantum-black?logo=quantconnect) ![IoT](https://img.shields.io/badge/IoT-black?logo=internetofthings)
+
+---
+
 ### 🔹 [Car Rental System](https://github.com/architkiran/Car-Rental-System)  
 🚗 Developed a **full-stack car rental platform** with booking, payment integration, and user authentication.  
 ![MERN](https://img.shields.io/badge/MERN-black?logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb) ![Express](https://img.shields.io/badge/Express-black?logo=express) ![React](https://img.shields.io/badge/React-black?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
