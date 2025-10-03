@@ -15,7 +15,7 @@
 # Archit Kiran Kumar | MS Computer Science Student  
 
 **Take a look at my portfolio!** 
-https://portfolio-archit-gh8k2a8mi-architkirans-projects.vercel.app
+https://portfolio-archit-p9yy.vercel.app/
 
 🎓 Master’s in Computer Science @ **Boston University**  
 
