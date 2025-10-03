@@ -81,6 +81,12 @@ https://portfolio-archit-gh8k2a8mi-architkirans-projects.vercel.app
 
 ---
 
+### 🔹 [Portfolio Website](https://github.com/architkiran/portfolio-archit)  
+🌐 A modern **personal portfolio website** showcasing my projects, skills, and achievements. Built with **Next.js**, **React**, and **TailwindCSS**.  
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![React](https://img.shields.io/badge/React-black?logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss) ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)
+
+---
+
 ### 🔹 [Blockchain-Based Voting System](https://github.com/architkiran/Blockchain-Based-Voting-)  
 🗳️ Developed a **secure blockchain application** for tamper-proof voting with transparent block validation.  
 ![Blockchain](https://img.shields.io/badge/Blockchain-black?logo=bitcoin) ![Java](https://img.shields.io/badge/Java-black?logo=openjdk)
