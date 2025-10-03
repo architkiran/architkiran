@@ -14,6 +14,9 @@
 
 # Archit Kiran Kumar | MS Computer Science Student  
 
+**Visit my profile!** 
+https://portfolio-archit-gh8k2a8mi-architkirans-projects.vercel.app
+
 🎓 Master’s in Computer Science @ **Boston University**  
 
 💻 Passionate about **Software Development | Data Science | Web Development| Cybersecurity | Post-Quantum Communication**  
