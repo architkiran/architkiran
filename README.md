@@ -75,7 +75,7 @@ https://portfolio-archit-p9yy.vercel.app/
 
 ---
 
-### 🔹 [Real-Time Traffic Data Analysis Using PySpark](https://github.com/architkiran/Car-Rental-System)  
+### 🔹 [Real-Time Traffic Data Analysis Using PySpark](https://github.com/architkiran/Live-Traffic-Data-Analysis)  
 🚦 Built a **real-time traffic visualization tool** using **TomTom APIs & PySpark**, with **dynamic route mapping and congestion analysis**.  
 ![Python](https://img.shields.io/badge/Python-black?logo=python) ![PySpark](https://img.shields.io/badge/PySpark-black?logo=apachespark) ![Data Science](https://img.shields.io/badge/Data_Science-black?logo=anaconda)
 
