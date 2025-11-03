@@ -87,6 +87,12 @@ https://portfolio-archit-p9yy.vercel.app/
 
 ---
 
+### 🔹 [Music Review Rating Prediction](https://github.com/architkiran/MusicRatingPrediction)  
+🗳️ This project predicts reviewer ratings (1–5) of music releases using metadata and text features.
+It’s a multi-class classification problem, evaluated with Macro F1 Score (as per Kaggle rules). 
+
+---
+
 ### 🔹 [Blockchain-Based Voting System](https://github.com/architkiran/Blockchain-Based-Voting-)  
 🗳️ Developed a **secure blockchain application** for tamper-proof voting with transparent block validation.  
 ![Blockchain](https://img.shields.io/badge/Blockchain-black?logo=bitcoin) ![Java](https://img.shields.io/badge/Java-black?logo=openjdk)
