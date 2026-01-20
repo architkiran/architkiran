@@ -15,7 +15,7 @@
 # Archit Kiran Kumar | MS Computer Science Student  
 
 **Take a look at my portfolio!** 
-[https://portfolio-archit-8n5t3pejj-architkirans-projects.vercel.app/]
+[https://portfolio-archit-p9yy.vercel.app/]
 
 🎓 Master’s in Computer Science @ **Boston University**  
 
@@ -81,7 +81,7 @@
 
 ---
 
-### 🔹 [Portfolio Website](https://github.com/architkiran/portfolio-archit): https://portfolio-archit-8n5t3pejj-architkirans-projects.vercel.app/
+### 🔹 [Portfolio Website](https://github.com/architkiran/portfolio-archit): https://portfolio-archit-p9yy.vercel.app/
 🌐 A modern **personal portfolio website** showcasing my projects, skills, and achievements. Built with **Next.js**, **React**, and **TailwindCSS**.  
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![React](https://img.shields.io/badge/React-black?logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss) ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)
 
