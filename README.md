@@ -81,6 +81,12 @@
 
 ---
 
+### 🔹 [KPI Trust Dashboard — Metric Reconciliation](https://github.com/architkiran/Metric-reconciliation-dashboard-debugging)  
+📊 Built an **analytics trust & metric reconciliation dashboard** comparing **Finance vs Growth revenue definitions**, with **automated mismatch detection, drilldowns, and KPI validation** using **DuckDB, SQL pipelines, and Streamlit**.  
+![Python](https://img.shields.io/badge/Python-black?logo=python) ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql) ![DuckDB](https://img.shields.io/badge/DuckDB-black?logo=duckdb) ![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-black?logo=tableau)
+
+---
+
 ### 🔹 [Portfolio Website](https://github.com/architkiran/portfolio-archit): https://portfolio-archit-p9yy.vercel.app/
 🌐 A modern **personal portfolio website** showcasing my projects, skills, and achievements. Built with **Next.js**, **React**, and **TailwindCSS**.  
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs) ![React](https://img.shields.io/badge/React-black?logo=react) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss) ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)
