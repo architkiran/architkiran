@@ -75,6 +75,13 @@
 
 ---
 
+
+### 🔹 [Financial Performance Dashboard](https://github.com/architkiran/financial-performance-dashboard.git)  
+🚦 Built a comprehensive financial analysis dashboard that visualizes and compares the performance of public companies using real-time data.
+![Python](https://img.shields.io/badge/Python-black?logo=python) ![PySpark](https://img.shields.io/badge/PySpark-black?logo=apachespark) ![Data Science](https://img.shields.io/badge/Data_Science-black?logo=anaconda)
+
+---
+
 ### 🔹 [Real-Time Traffic Data Analysis Using PySpark](https://github.com/architkiran/Live-Traffic-Data-Analysis)  
 🚦 Built a **real-time traffic visualization tool** using **TomTom APIs & PySpark**, with **dynamic route mapping and congestion analysis**.  
 ![Python](https://img.shields.io/badge/Python-black?logo=python) ![PySpark](https://img.shields.io/badge/PySpark-black?logo=apachespark) ![Data Science](https://img.shields.io/badge/Data_Science-black?logo=anaconda)
